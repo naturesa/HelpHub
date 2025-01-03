@@ -79,10 +79,11 @@ InNeed Profile Cards
 Authors and Acknowledgements
 This project was developed by:
 
-@lucastakase- Dependency and Plugin Configuration, JavaScript Integration
-@naturesa- Frontend Development (HTML, CSS, JavaScript)
-@Silverworm1991- Backend Development
-@V.msm- Backend Development
+- [@lucastakase](https://github.com/lucastakase) - Dependency and Plugin Configuration, JavaScript Integration
+- [@naturesa](https://github.com/naturesa) - Frontend Development (HTML, CSS, JavaScript)
+- [@Silverworm1991](https://github.com/Silverworm1991) - Backend Development
+- [@V.msm](https://github.com/V.msm) - Backend Development
+  
 I would like to thank Code for All, the Mastercoders, our fellow bootcamp colleagues, and everyone who supported us during the development of this project.
 
 Special thanks to the people who helped us refine this idea!
